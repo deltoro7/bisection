@@ -1,7 +1,7 @@
 import math
 
 
-a = 1 # a and b is the estiamted bounds between pi
+a = 1 # a and b is the estimated bounds between pi
 b = 4
 
 m = (math.sin(a) + math.sin(b))  / 2     #inital bisection
